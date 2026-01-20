@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: #0f0f0f;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+    background: #111;
+    cursor: grab;
+}
+
+canvas:active {
+    cursor: grabbing;
+}
+
+#title {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+#mecanica {
+    width: 600px;
+    margin: 10px auto 30px;
+    font-size: 16px;
+    line-height: 1.5;
+}
