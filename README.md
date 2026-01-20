@@ -46,7 +46,7 @@ Este projeto é um mini game feito em HTML5 e Canvas, onde o jogador interage co
 ```shell
   $ MiniGameBolinha
   ├── bolinha.js
-  ├── canvas.html
+  ├── index.html
   └── style.css
 
 ```
