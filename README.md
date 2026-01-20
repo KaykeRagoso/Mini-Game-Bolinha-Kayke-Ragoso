@@ -29,8 +29,6 @@ Este projeto é um mini game feito em HTML5 e Canvas, onde o jogador interage co
 
 - Controle pelo mouse – clicar e arrastar a bolinha para lançá-la.
 
-- Linha de força – mostra direção e intensidade do lançamento enquanto arrasta.
-
 ## Como Jogar
 
 - Abra o arquivo index.html no navegador.
